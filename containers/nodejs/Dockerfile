@@ -1,4 +1,4 @@
-FROM timpark/ubuntu
+FROM plane123/ubuntu
 MAINTAINER Plane123 <plane123@gmail.com>
 
 RUN sudo apt-get install -y software-properties-common python-software-properties
