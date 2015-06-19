@@ -1,4 +1,4 @@
-FROM timpark/nodejs
+FROM plane123/nodejs
 MAINTAINER plane123 <plane123@gmail.com>
 
 RUN mkdir /var/www
